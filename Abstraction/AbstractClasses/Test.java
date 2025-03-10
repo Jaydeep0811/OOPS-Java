@@ -11,9 +11,9 @@ public class Test {
         
          
 //         Skoda 
-         Skoda s= new Kushaq();
+         Skoda s= new Rapido();
          
-         Skoda s1=new Rapido();
+         Skoda s1=new Kushaq();
          s.getSpeed();
          s.getPrice();
          
