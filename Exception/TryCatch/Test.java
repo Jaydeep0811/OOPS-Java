@@ -1,5 +1,8 @@
 package Exception.TryCatch;
-
+/*
+ * try is block in java which is containing statement which will give an exception
+ * catch  is a key in java which is use with try block for handle a exception of a code which  contain try block 
+ * */
 public class Test {
 
 	public static void main(String[] args) {
@@ -12,6 +15,7 @@ public class Test {
 		System.out.println(e.getCause());
 //			getMessage() is Throwable class method
 		}
+		System.out.println("Hii");
 
 	}
 
